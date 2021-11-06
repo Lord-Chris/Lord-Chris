@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm an upcoming Embedded systems engineer😁, soon to be connecting the world to hardware through Mobile apps.
 
     
-
-    
-### Show some ❤️ by starring some of the repositories!
