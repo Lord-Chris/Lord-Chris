@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Flutter based projects
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Flutter and Dart
-- 📫 How to reach me: Email - maduekechris65@gmail.com 
+- 📫 How to reach me: Email - maduekechris65@gmail.com , LinkedIn - Christopher Nwosu-Madueke
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an upcoming Embedded systems engineer😁, soon to be connecting the world to hardware through Mobile apps.
 
