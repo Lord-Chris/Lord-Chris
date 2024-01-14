@@ -36,7 +36,9 @@ By night, I'm a gamer and a anime buff. I love to play games and watch movies.
 Here are some of my favorite projects I've worked on:
 
 - [Fancy Gallery](https://github.com/Lord-Chris/Fancy-Gallery) - Fancy Gallery is a gallery app that shows an infinite amount of images, and each image can be previewed
-![Fancy Gallery](https://github.com/Lord-Chris/Lord-Chris/assets/58702861/69d81ee8-915a-430e-9ee9-9e72d366a119)
+![Fancy Gallery](https://github.com/Lord-Chris/Lord-Chris/assets/58702861/3c58e240-21c4-4d9a-bb39-cd7ad31dcd0b)
+
+
 
 <!-- 2. [Project 2](link_to_project_2) - Brief description
 3. [Project 3](link_to_project_3) - Brief description
