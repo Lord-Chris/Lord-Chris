@@ -1,10 +1,10 @@
 # Hello there👋! I'm Christopher (LordChris). 
 ## Meet the Flutter Alchemist🧙💙
 
-![Your GitHub stats](https://github-profile-trophy.vercel.app/?username=Lord-Chris&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Lord-Chris&show_icons=true&locale=en&layout=compact&theme=radical) 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-Chris&show_icons=true&theme=radical)
-![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Lord-Chris&theme=radical) 
+![Github Achievements](https://github-profile-trophy.vercel.app/?username=Lord-Chris&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Lord-Chris&show_icons=true&locale=en&layout=compact&theme=radical) 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lord-Chris&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lord-Chris&theme=radical)
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=LordChris&theme=radical) -->
 
 ## Social Media Links
@@ -25,7 +25,7 @@ Sharing knowledge ignites me - through articles, workshops, and the vibrant Flut
 
 Collaboration is my secret potion. UI/UX wizards, backend sorcerers, we're all partners in crafting mobile marvels. So, be it pixels or APIs, I'm your teammate, ready to brew something truly remarkable.
 
-By night, I'm a gamer and a anime buff. I love to play games and watch movies. I also love to exercise and take walks.
+By night, I'm a gamer and a anime buff. I love to play games and watch movies.
 
 ![](https://img.shields.io/twitter/follow/lord_chris__?logo=twitter&style=for-the-badge)
 ![](https://img.shields.io/github/followers/Lord-Chris?logo=github&style=for-the-badge)
