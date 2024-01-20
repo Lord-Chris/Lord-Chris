@@ -38,6 +38,8 @@ Here are some of my favorite projects I've worked on:
 - [Fancy Gallery](https://github.com/Lord-Chris/Fancy-Gallery) - Fancy Gallery is a gallery app that shows an infinite amount of images, and each image can be previewed
 ![Fancy Gallery](https://github.com/Lord-Chris/Lord-Chris/assets/58702861/3c58e240-21c4-4d9a-bb39-cd7ad31dcd0b)
 
+**The rest will come in later, anticipate more additions.😄*
+
 
 
 <!-- 2. [Project 2](link_to_project_2) - Brief description
