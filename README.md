@@ -38,7 +38,10 @@ Here are some of my favorite projects I've worked on:
 - [Fancy Gallery](https://github.com/Lord-Chris/Fancy-Gallery) - Fancy Gallery is a gallery app that shows an infinite amount of images, and each image can be previewed
 ![Fancy Gallery](https://github.com/Lord-Chris/Lord-Chris/assets/58702861/3c58e240-21c4-4d9a-bb39-cd7ad31dcd0b)
 
-**The rest will come in later, anticipate more additions.😄*
+- [MP Design](https://github.com/Lord-Chris/mp_design) - MP Design App is an animation UI from Moniepoint assessment also used to demonstrate accessibility in Flutter
+![MP Design](https://github.com/Lord-Chris/mp_design/assets/58702861/bc647ae3-3d64-4304-8896-73cec161dc6d)
+
+**The rest will be added here in the coming days, you can look at [my repositories](https://github.com/Lord-Chris?tab=repositories) section for more.😄*
 
 
 
