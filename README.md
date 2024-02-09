@@ -41,6 +41,9 @@ Here are some of my favorite projects I've worked on:
 - [MP Design](https://github.com/Lord-Chris/mp_design) - MP Design App is an animation UI from Moniepoint assessment also used to demonstrate accessibility in Flutter
 ![MP Design](https://github.com/Lord-Chris/mp_design/assets/58702861/8d41f5ab-6c6b-4e7d-aac6-b8a152f001c1)
 
+- [BChainAssessment](https://github.com/Lord-Chris/BChainAssessment) BChainAssessment is a simple app that allows users to view their crypto wallet balance and transaction history
+![bchain_assessment](https://github.com/Lord-Chris/BChainAssessment/assets/58702861/09a5f61d-ae8a-40f9-86af-1e8082ec9d5a)
+
 **The rest will be added here in the coming days, you can look at [my repositories](https://github.com/Lord-Chris?tab=repositories) section for more.😄*
 
 
