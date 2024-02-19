@@ -5,7 +5,6 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Lord-Chris&show_icons=true&locale=en&layout=compact&theme=radical) 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lord-Chris&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lord-Chris&theme=radical)
-<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=LordChris&theme=radical) -->
 
 ## Social Media Links
 
@@ -35,34 +34,16 @@ By night, I'm a gamer and a anime buff. I love to play games and watch movies.
 
 Here are some of my favorite projects I've worked on:
 
-- [Fancy Gallery](https://github.com/Lord-Chris/Fancy-Gallery) - Fancy Gallery is a gallery app that shows an infinite amount of images, and each image can be previewed
-![Fancy Gallery](https://github.com/Lord-Chris/Lord-Chris/assets/58702861/3c58e240-21c4-4d9a-bb39-cd7ad31dcd0b)
+| Fancy Gallery | MP Design | BChainAssessment |
+| :---: | :---: | :---: |
+| ![Fancy Gallery](https://github.com/Lord-Chris/Lord-Chris/assets/58702861/3c58e240-21c4-4d9a-bb39-cd7ad31dcd0b) | ![MP Design](https://github.com/Lord-Chris/mp_design/assets/58702861/8d41f5ab-6c6b-4e7d-aac6-b8a152f001c1) | ![bchain_assessment](https://github.com/Lord-Chris/BChainAssessment/assets/58702861/09a5f61d-ae8a-40f9-86af-1e8082ec9d5a) |
+| 🔗[GitHub](https://github.com/Lord-Chris/Fancy-Gallery) | 🔗[GitHub](https://github.com/Lord-Chris/mp_design) | 🔗[GitHub](https://github.com/Lord-Chris/BChainAssessment) |
+| | |
 
-- [MP Design](https://github.com/Lord-Chris/mp_design) - MP Design App is an animation UI from Moniepoint assessment also used to demonstrate accessibility in Flutter
-![MP Design](https://github.com/Lord-Chris/mp_design/assets/58702861/8d41f5ab-6c6b-4e7d-aac6-b8a152f001c1)
-
-- [BChainAssessment](https://github.com/Lord-Chris/BChainAssessment) BChainAssessment is a simple app that allows users to view their crypto wallet balance and transaction history
-![bchain_assessment](https://github.com/Lord-Chris/BChainAssessment/assets/58702861/09a5f61d-ae8a-40f9-86af-1e8082ec9d5a)
 
 **The rest will be added here in the coming days, you can look at [my repositories](https://github.com/Lord-Chris?tab=repositories) section for more.😄*
 
-
-
-<!-- 2. [Project 2](link_to_project_2) - Brief description
-3. [Project 3](link_to_project_3) - Brief description
-4. [Project 4](link_to_project_4) - Brief description
-5. [Project 5](link_to_project_5) - Brief description
-6. [Project 6](link_to_project_6) - Brief description
-7. [Project 7](link_to_project_7) - Brief description
-8. [Project 8](link_to_project_8) - Brief description
-9. [Project 9](link_to_project_9) - Brief description
-10. [Project 10](link_to_project_10) - Brief description -->
-
-<!-- ## Fun Fact
-[Share a fun fact about yourself.] -->
-<!-- ## Ending Remark -->
 ---
 
 Thank you for taking the time to read my README! Feel free to reach out to me on LinkedIn, Twitter, or Medium. I look forward to connecting with you!
-
 
