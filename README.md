@@ -34,10 +34,14 @@ By night, I'm a gamer and a anime buff. I love to play games and watch movies.
 
 Here are some of my favorite projects I've worked on:
 
-| Fancy Gallery | MP Design | BChainAssessment |
+| Story Generator | Fancy Gallery | MP Design |
 | :---: | :---: | :---: |
-| ![Fancy Gallery](https://github.com/Lord-Chris/Lord-Chris/assets/58702861/3c58e240-21c4-4d9a-bb39-cd7ad31dcd0b) | ![MP Design](https://github.com/Lord-Chris/mp_design/assets/58702861/8d41f5ab-6c6b-4e7d-aac6-b8a152f001c1) | ![bchain_assessment](https://github.com/Lord-Chris/BChainAssessment/assets/58702861/09a5f61d-ae8a-40f9-86af-1e8082ec9d5a) |
-| 🔗[GitHub](https://github.com/Lord-Chris/Fancy-Gallery) | 🔗[GitHub](https://github.com/Lord-Chris/mp_design) | 🔗[GitHub](https://github.com/Lord-Chris/BChainAssessment) |
+| ![story_gen](https://github.com/Lord-Chris/story-generator/assets/58702861/1d59b122-3c45-49c7-a122-4ec0f9c8c4fc) | ![Fancy Gallery](https://github.com/Lord-Chris/Lord-Chris/assets/58702861/3c58e240-21c4-4d9a-bb39-cd7ad31dcd0b) | ![MP Design](https://github.com/Lord-Chris/mp_design/assets/58702861/8d41f5ab-6c6b-4e7d-aac6-b8a152f001c1) |
+| 🔗[Tweet](https://twitter.com/lord_chris__/status/1760749786129400281?s=19) | 🔗[GitHub](https://github.com/Lord-Chris/Fancy-Gallery) | 🔗[GitHub](https://github.com/Lord-Chris/mp_design) |
+| | |
+| **BChainAssessment** | | |
+|  ![bchain_assessment](https://github.com/Lord-Chris/BChainAssessment/assets/58702861/09a5f61d-ae8a-40f9-86af-1e8082ec9d5a) | | |
+|  🔗[GitHub](https://github.com/Lord-Chris/BChainAssessment) | | |
 | | |
 
 
