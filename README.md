@@ -3,8 +3,8 @@
 
 ![Github Achievements](https://github-profile-trophy.vercel.app/?username=Lord-Chris&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Lord-Chris&show_icons=true&locale=en&layout=compact&theme=radical) 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lord-Chris&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lord-Chris&theme=radical)
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lord-Chris&show_icons=true&theme=radical) -->
 
 ## Social Media Links
 
